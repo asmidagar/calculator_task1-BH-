@@ -50,13 +50,14 @@ See the result instantly
 ✅ Fully commented and beginner-friendly code
 
 📷 Preview
-![alt text](<addition.png>)
+<img width="1920" height="1020" alt="Screenshot 2025-07-16 104935" src="https://github.com/user-attachments/assets/fb718b8c-4a36-4278-9a29-50832eca037b" />
 
-![alt text](<substraction.png>)
+<img width="1920" height="1020" alt="Screenshot 2025-07-16 105137" src="https://github.com/user-attachments/assets/8b616c61-6350-433f-aa9f-a2cf0455e9c3" />
 
-![alt text](<multipication.png>)
+<img width="1920" height="1020" alt="Screenshot 2025-07-16 105209" src="https://github.com/user-attachments/assets/d53d5742-686c-4df7-b969-464876e27c46" />
 
-![alt text](<division.png>)
+<img width="1920" height="1020" alt="Screenshot 2025-07-16 105233" src="https://github.com/user-attachments/assets/26207ad1-e34a-44a2-8ee6-38c21c2a1d24" />
+
 
 ## 📌 Requirements
 Python 3.x
